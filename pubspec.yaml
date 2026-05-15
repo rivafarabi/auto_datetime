@@ -41,7 +41,7 @@ flutter:
       ios:
         pluginClass: AutoDatetimePlugin
       windows:
-        pluginClass: AutoDatetimePlugin
+        pluginClass: AutoDatetimePluginCApi
         fileName: auto_datetime_plugin_c_api.h
 
   # To add assets to your plugin package, add an assets section, like this:
