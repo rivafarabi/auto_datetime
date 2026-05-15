@@ -1,7 +1,8 @@
 name: auto_datetime
 description: "A Flutter plugin that detects whether automatic date and time is enabled on Android, iOS, and Windows."
 version: 0.0.1
-homepage:
+homepage: https://github.com/rivafarabi/auto_datetime
+repository: https://github.com/rivafarabi/auto_datetime
 
 environment:
   sdk: '>=3.4.0 <4.0.0'
