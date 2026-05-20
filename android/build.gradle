@@ -25,6 +25,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
+    namespace 'com.rivafarabi.auto_datetime'
     compileSdkVersion 33
 
     compileOptions {
